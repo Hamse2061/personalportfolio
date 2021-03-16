@@ -1,0 +1,147 @@
+
+.container {
+	
+	width: 1440px;
+	height: 5181px;
+	background-color: #f7f2f2;
+	
+}
+.bodycontainer {
+	background-color: #fff;
+	margin-left: 209px;
+	margin-right: 209px;
+	padding-top: 40px;
+	padding-left: 100px;
+	padding-right: 100px;
+
+	
+}
+.david {
+	float: left;
+}
+.david li a {
+	color: #ed145b;
+	font-size: 25px;
+}
+ul {
+	display: flex;
+	list-style-type: none;
+	overflow: hidden;
+	margin-top: 30px;
+	padding: 0;
+	float: right;
+	margin-right:50px;
+	}
+li a {
+	text-decoration: none;
+	padding: 8px;
+	font-size: 18px;
+	font-family: arial;
+	color: #000;
+}
+.hi a{
+	background-color: #ed145b;
+	color: #fff;
+	padding: 20px 25px 25px 20px;
+	width:50px;
+	height: 50px;
+	
+}
+.headerbody {
+	font-family: arial;
+	margin-top: 150px;
+}
+p {
+	font-family: arial;
+	font-size: 20px;
+}
+.images{
+	display: flex;
+}
+.images img {
+	width: 20px;
+	height: 20px;
+	padding: 10px;
+}
+.images button {
+	background-color: #ed145b;
+	color: #fff;
+	width: 200px;
+	height: 50px;
+}
+.images #david {
+	width: 300px;
+	height: 300px;
+	margin-top: -250px;
+	margin-left: 200px;
+}
+h1, h2 {
+	font-family: arial;
+}
+.h1color {
+	display: flex;
+}
+.h1color #pinkh1 {
+	padding-left: 10px;
+	color: #ed145b;
+}
+.aboutme {
+	margin-top: 100px;
+}
+.pigimage {
+	float: right;
+	width: 70px;
+	height: 70px;
+	margin-right: 250px;
+}
+.workexperience {
+	display: grid;
+	grid-template-columns: 33% 33% 30%;
+}
+.skillset {
+	margin-top: 100px;
+}
+.fulltime {
+	margin-top: 100px;
+}
+.button {
+	background-color: #ed145b;
+	color: #fff;
+	width: 200px;
+	height: 50px;
+}
+.footer {
+	
+	background-color:  #ed145b;
+	color: #fff;
+	font-family: arial;
+	margin: -100px;
+	margin-top: 100px;
+	height: 70px;
+	text-align: center;
+	padding-top: 6px;
+}
+.footerp {
+	font-size: 25px;
+	padding-bottom: 5px;
+}
+
+.footerimg {
+	display: grid;
+	grid-template-columns: 50% 50%;
+
+	
+}
+.footerimg img {
+	width: 20px;
+	height: 20px;
+	margin-left:150px;
+}
+.selectedimg {
+	
+}
+.selectedimg img {
+	width: 400px;
+	height: 300px;r
+	
+}
